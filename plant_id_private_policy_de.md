@@ -1,93 +1,53 @@
-1. Verantwortlicher
+Datenschutzerklärung / Privacy Policy
+**Zuletzt aktualisiert / Last updated: September 2025**
 
-Verantwortlich für die Datenverarbeitung im Sinne der DSGVO ist:
+Wir nehmen den Schutz Ihrer Daten sehr ernst.
+We take the protection of your data very seriously.
 
-[Ihr Name, Vorname]
-[Ihre Anschrift (Straße, Hausnummer, PLZ, Ort)]
-E-Mail: [Ihre Kontaktadresse]
+1. Verantwortlicher / Controller
+Verantwortlich für die Datenverarbeitung ist:
+Responsible for data processing is:
+[Dein Name / Unternehmen, Adresse, Kontakt]
 
-2. Verarbeitung personenbezogener Daten
-a) Fotos und Kamera-Zugriff
+2. Erhobene Daten / Data Collected
+• Von Ihnen bereitgestellte Daten: z. B. hochgeladene Fotos von Pflanzen.  
+• Automatisch erhobene Daten: Geräteinformationen, IP-Adresse (technisch bedingt).  
+• Daten von Drittanbietern: Die App nutzt Google Gemini API und iNaturalist API, die ihrerseits Daten verarbeiten können.  
 
-Zur Pflanzenbestimmung können Sie Fotos aufnehmen oder hochladen.
+3. Zweck der Verarbeitung / Purpose of Processing
+• Pflanzenerkennung und Anzeige von Informationen  
+• Verbesserung der App-Funktionalität  
+• Fehleranalyse und Sicherheit  
 
-Diese Fotos werden ausschließlich zur Analyse innerhalb der App genutzt.
+4. Weitergabe von Daten / Data Sharing
+• An Google Gemini API (für Bildanalyse)  
+• An iNaturalist API (für Pflanzeninformationen)  
+• Keine Weitergabe an unbefugte Dritte  
 
-Eine Übertragung an unsere Server erfolgt nicht, es sei denn, Sie nutzen eine Cloud-Analyse (falls implementiert → gesondert angeben).
+5. Speicherort und Dauer / Storage and Retention
+• Daten werden nur so lange gespeichert, wie es für die App-Funktion notwendig ist.  
+• Fotos können temporär verarbeitet werden, werden aber nicht dauerhaft gespeichert.  
 
-b) Geräteinformationen
+6. Ihre Rechte / Your Rights
+• Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit  
+• Kontakt: [E-Mail-Adresse]  
 
-Zur Sicherstellung der Funktionsfähigkeit können technische Daten (z. B. Betriebssystem, Gerätetyp, App-Version) verarbeitet werden.
+7. Sicherheit / Security
+Wir setzen technische und organisatorische Maßnahmen ein, um Ihre Daten zu schützen.
+We use technical and organizational measures to protect your data.
 
-c) Nutzungsdaten
+8. Altersbeschränkung / Age Restriction
+• Die App ist nur für Nutzer ab 18 Jahren bestimmt, da die Google Gemini API dies erfordert.  
+• The app is intended only for users 18 years and older, as required by the Google Gemini API.  
 
-Zur Verbesserung der App können anonyme Nutzungsstatistiken erfasst werden (z. B. welche Funktionen besonders häufig verwendet werden).
+9. Disclaimer / Haftungsausschluss
+• Kein medizinischer Rat: Die Pflanzenerkennung dient nur Informationszwecken. Sie ersetzt keine fachliche Beratung (z. B. durch Botaniker, Ärzte oder Tierärzte).  
+• No Medical or Safety Advice: Plant identification is for informational purposes only. It is not a substitute for professional advice (e.g., botanists, doctors, veterinarians).  
+• Keine Garantie für Richtigkeit: Ergebnisse der Pflanzenerkennung können fehlerhaft sein.  
+• No Guarantee of Accuracy: Plant identification results may be incorrect or incomplete.  
+• Ausschluss der Haftung: Wir übernehmen keine Haftung für Schäden, die durch falsche Bestimmungen, falsche Nutzung oder Vertrauen auf die App entstehen, insbesondere bei Giftpflanzen, Allergien, gesundheitlichen Risiken oder wirtschaftlichen Schäden.  
+• Limitation of Liability: We disclaim any liability for damages resulting from incorrect identifications, misuse, or reliance on the app, especially regarding toxic plants, allergies, health risks, or financial losses.  
 
-d) In-App-Käufe
-
-Wenn Sie kostenpflichtige Funktionen oder Abonnements erwerben, erfolgt die Zahlungsabwicklung ausschließlich über den Apple App Store.
-
-Wir selbst erhalten dabei keine Zahlungsdaten (z. B. Kreditkartennummern).
-
-e) Werbung (falls aktiviert)
-
-Wenn die App Werbung anzeigt, nutzen wir ggf. Dienste von Drittanbietern (z. B. Google AdMob).
-
-Dabei können pseudonyme Nutzungsdaten verarbeitet werden (z. B. Gerätekennungen, Interaktionen mit Werbeanzeigen).
-
-Sie können der personalisierten Werbung jederzeit in den Geräteeinstellungen widersprechen („Tracking einschränken“).
-
-3. Rechtsgrundlagen der Verarbeitung
-
-Die Verarbeitung erfolgt auf Basis folgender Rechtsgrundlagen nach Art. 6 DSGVO:
-
-Art. 6 Abs. 1 lit. a DSGVO – Einwilligung (z. B. für optionale Funktionen wie Werbung oder Analysen).
-
-Art. 6 Abs. 1 lit. b DSGVO – Vertragserfüllung (z. B. zur Nutzung der App-Funktionen).
-
-Art. 6 Abs. 1 lit. f DSGVO – berechtigtes Interesse (z. B. zur Gewährleistung der Sicherheit und Stabilität der App).
-
-4. Weitergabe an Dritte
-
-Eine Weitergabe an Dritte erfolgt grundsätzlich nur, wenn dies gesetzlich vorgeschrieben ist oder Sie ausdrücklich eingewilligt haben.
-
-Bei Nutzung von Drittanbieter-Diensten (z. B. Google Firebase, Google Ads, Analytics) gelten zusätzlich deren Datenschutzbestimmungen.
-
-5. Speicherort und Speicherdauer
-
-Fotos verbleiben standardmäßig auf Ihrem Gerät.
-
-Daten werden nur so lange gespeichert, wie dies zur Bereitstellung der App erforderlich ist.
-
-Gesetzliche Aufbewahrungspflichten bleiben unberührt.
-
-6. Ihre Rechte
-
-Sie haben das Recht, jederzeit:
-
-gemäß Art. 15 DSGVO Auskunft über Ihre bei uns verarbeiteten Daten zu verlangen,
-
-gemäß Art. 16 DSGVO Berichtigung unrichtiger Daten zu verlangen,
-
-gemäß Art. 17 DSGVO die Löschung Ihrer Daten zu verlangen,
-
-gemäß Art. 18 DSGVO die Einschränkung der Verarbeitung zu verlangen,
-
-gemäß Art. 20 DSGVO Ihre Daten in einem maschinenlesbaren Format zu erhalten,
-
-gemäß Art. 21 DSGVO Widerspruch gegen die Verarbeitung einzulegen,
-
-gemäß Art. 77 DSGVO Beschwerde bei einer Aufsichtsbehörde einzureichen.
-
-7. Änderungen dieser Datenschutzerklärung
-
-Wir behalten uns vor, diese Datenschutzerklärung zu ändern, um sie an rechtliche Anforderungen oder Änderungen unserer App anzupassen. Die jeweils aktuelle Version ist jederzeit in der App und im App Store verfügbar.
-
-8. Kontakt
-
-Bei Fragen zum Datenschutz wenden Sie sich bitte an:
-
-[Ihr Name]
-[Ihre Anschrift]
-[Ihre E-Mail-Adresse]
-
+10. Änderungen / Changes
+Wir behalten uns vor, diese Datenschutzerklärung bei Bedarf anzupassen.
+We reserve the right to modify this privacy policy if necessary.
