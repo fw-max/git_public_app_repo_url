@@ -1,11 +1,15 @@
 Datenschutzerklärung / Privacy Policy
+
 Zuletzt aktualisiert / Last updated: September 2025
+
 Wir nehmen den Schutz Ihrer Daten sehr ernst.
 We take the protection of your data very seriously.
+
 1. Verantwortlicher / Controller
 Verantwortlich für die Datenverarbeitung ist:
 Responsible for data processing is:
 [Dein Name / Unternehmen, Adresse, Kontakt]
+
 2. Erhobene Daten / Data Collected
 Von Ihnen bereitgestellte Daten / Data you provide:
 Hochgeladene Fotos von Pflanzen.
@@ -15,10 +19,12 @@ Geräteinformationen (z. B. Betriebssystem, Gerätetyp, App-Version).
 IP-Adresse (technisch bedingt).
 Daten von Drittanbietern / Data from third parties:
 Die App nutzt Google Gemini API und iNaturalist API, die ihrerseits Daten verarbeiten können.
+
 3. Zweck der Verarbeitung / Purpose of Processing
 Pflanzenerkennung und Anzeige von Informationen
 Verbesserung der App-Funktionalität
 Fehleranalyse und Sicherheit
+
 4. Weitergabe von Daten / Data Sharing
 An Google Gemini API (für Bildanalyse)
 An iNaturalist API (für Pflanzeninformationen)
