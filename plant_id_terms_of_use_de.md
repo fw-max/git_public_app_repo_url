@@ -2,8 +2,8 @@ Nutzungsbedingungen / Terms of Use
 Nutzungsbedingungen / Terms of Use
 
 **Zuletzt aktualisiert / Last updated: September 2025**
-Diese Nutzungsbedingungen regeln die Verwendung der App [App-Name].
-These Terms of Use govern the use of the app [App Name].
+Diese Nutzungsbedingungen regeln die Verwendung der App Plant'y.
+These Terms of Use govern the use of the app Plant'y.
 
 1. Nutzung der App / Use of the App
 • Die App darf nur zu privaten, nicht-kommerziellen Zwecken genutzt werden.  
