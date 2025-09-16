@@ -14,7 +14,7 @@ These Terms of Use govern the use of the app Plant'y.
 
 Es gelten darüber hinaus die Nutzungsbedingungen von:
 In addition these terms of use are also valid:
-  Google Gemini Terms of Use: https://business.safety.google/controllerterms 
+  Google Gemini Terms of Use: https://policies.google.com/terms
   iNaturalist Terms of Use: https://www.inaturalist.org/pages/terms
 
 3. Inhalte und Genauigkeit / Content and Accuracy
