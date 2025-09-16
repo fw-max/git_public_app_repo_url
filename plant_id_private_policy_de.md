@@ -18,8 +18,8 @@ Note: Depending on your camera or device settings, photos may contain additional
 Daten von Drittanbietern / Data from third parties:
 Die App nutzt Google Gemini API und iNaturalist API, die ihrerseits Daten verarbeiten können. Es gelten zusätzlich die Datenschutzbestimmungen von Google Gemini und iNaturalist.
 The app uses the Google Gemini API and the iNaturalist API, which may process data independently. The privacy policies of Google Gemini and iNaturalist also apply.
-Google Terms of Use: https://business.safety.google/controllerterms
-iNaturalist Terms of Use: https://www.inaturalist.org/pages/terms
+Google Terms https://policies.google.com/privacy
+iNaturalist Privacy Policies https://www.inaturalist.org/pages/privacy
 
 3. Zweck der Verarbeitung / Purpose of Processing
 Pflanzenerkennung und Anzeige von Informationen
