@@ -48,4 +48,49 @@ These Terms of Use govern the use of the app Plant'y.
 
 7. Anwendbares Recht / Governing Law
 • Es gilt deutsches Recht, soweit zwingendes Verbraucherrecht nicht entgegensteht.  
-• German law applies, unless mandatory consumer protection laws in your country provide otherwise.  
+• German law applies, unless mandatory consumer protection laws in your country provide otherwise.
+Nutzung der APP inkl. Google Gemini API in folgenden Ländern erlaubt:
+Usage of app incl. Google Gemini API in the follwing countries allowed:
+
+Kanada
+USA
+Albanien
+Belgien
+Bosnien und Herzegowina
+Bulgarien
+Dänemark
+Deutschland
+Estland
+Finnland
+Frankreich
+Griechenland
+Irland
+Island
+Italien
+Kosovo
+Kroatien
+Lettland
+Litauen
+Luxemburg
+Malta
+Montenegro
+Niederlande
+Nordmazedonien
+Norwegen
+Österreich
+Polen
+Portugal
+Rumänien
+Schweden
+Schweiz
+Serbien
+Slowakei
+Slowenien
+Spanien
+Tschechische Republik
+Türkei
+Ukraine
+Ungarn
+Vereinigtes Königreich
+Zypern
+
