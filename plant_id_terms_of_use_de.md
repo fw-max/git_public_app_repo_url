@@ -10,23 +10,28 @@ These Terms of Use govern the use of the app Plant'y.
 • The app may only be used for private, non-commercial purposes.  
 • Altersbeschränkung / Age Restriction:  
   • Die App ist nur für Nutzer ab 18 Jahren bestimmt, da die Google Gemini API dies voraussetzt.  
-  • The app is only intended for users 18 years and older, as required by the Google Gemini API.  
+  • The app is only intended for users 18 years and older, as required by the Google Gemini API.
 
-2. Inhalte und Genauigkeit / Content and Accuracy
+Es gelten darüber hinaus die Nutzungsbedingungen von:
+In addition these terms of use are also valid:
+  Google Gemini Terms of Use: https://business.safety.google/controllerterms 
+  iNaturalist Terms of Use: https://www.inaturalist.org/pages/terms
+
+3. Inhalte und Genauigkeit / Content and Accuracy
 • Pflanzenergebnisse basieren auf externen Datenquellen (Google Gemini, iNaturalist).  
 • Wir übernehmen keine Garantie für die Richtigkeit oder Vollständigkeit der Ergebnisse.  
 • Plant identification results are based on external data sources (Google Gemini, iNaturalist).  
 • We do not guarantee accuracy or completeness of the results.  
 
-3. Kosten / Fees
+4. Kosten / Fees
 • Wenn die App kostenpflichtig ist oder In-App-Käufe anbietet, werden diese klar dargestellt.  
 • If the app is paid or offers in-app purchases, these will be clearly displayed.  
 
-4. Verantwortung des Nutzers / User Responsibility
+5. Verantwortung des Nutzers / User Responsibility
 • Nutzer dürfen keine rechtswidrigen Inhalte hochladen.  
 • Users must not upload unlawful or harmful content.  
 
-5. Haftungsbeschränkung / Limitation of Liability
+6. Haftungsbeschränkung / Limitation of Liability
 5.1 Keine Garantie / No Warranty
 • Die App wird "wie besehen" und ohne jegliche Gewährleistung bereitgestellt.  
 • The app is provided "AS IS" and WITHOUT ANY WARRANTY, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.  
@@ -42,11 +47,11 @@ These Terms of Use govern the use of the app Plant'y.
 • This limitation of liability applies to the fullest extent permitted by applicable law.  
 • In einigen Ländern ist der Ausschluss bestimmter Garantien oder Haftungen gesetzlich nicht zulässig; in diesem Fall gilt die Haftung nur im gesetzlich vorgeschriebenen Mindestmaß.  
 
-6. Änderungen / Changes
+7. Änderungen / Changes
 • Wir können die App und diese Bedingungen jederzeit ändern.  
 • We may change the app and these terms at any time.  
 
-7. Anwendbares Recht / Governing Law
+8. Anwendbares Recht / Governing Law
 • Es gilt deutsches Recht, soweit zwingendes Verbraucherrecht nicht entgegensteht.  
 • German law applies, unless mandatory consumer protection laws in your country provide otherwise.
 Nutzung der APP inkl. Google Gemini API in folgenden Ländern erlaubt:
