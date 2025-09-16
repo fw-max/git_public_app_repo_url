@@ -41,17 +41,20 @@ In addition these terms of use are also valid:
   • (a) your access to or use of the app,  
   • (b) your inability to use the app,  
   • (c) any conduct or content of third parties within or linked to the app,  
-  • (d) any unauthorized access, use, or alteration of your transmissions or data.  
+  • (d) any unauthorized access, use, or alteration of your transmissions or data.
+
+    Kein medizinischer Rat / No Medical or Safety Advice: Pflanzenerkennung dient nur Informationszwecken und ersetzt keine fachliche Beratung (z. B. durch Botaniker, Ärzte oder     Tierärzte). Plant identification is for informational purposes only and does not replace professional advice (e.g., by botanists, doctors, or veterinarians). Keine Garantie      für Richtigkeit / No Guarantee of Accuracy: Ergebnisse der Pflanzenerkennung können fehlerhaft oder unvollständig sein. Plant identification results may be incorrect or          incomplete. Haftungsausschluss / Limitation of Liability: Keine Haftung für Schäden durch falsche Bestimmungen, falsche Nutzung oder Vertrauen auf die App, insbesondere bei      Giftpflanzen, Allergien, gesundheitlichen Risiken oder wirtschaftlichen Schäden. We disclaim any liability for damages resulting from incorrect identifications, misuse, or       reliance on the app, especially regarding toxic plants, allergies, health risks, or financial losses.
+   
 5.3 Geltungsbereich / Jurisdiction
 • Dieser Haftungsausschluss gilt im maximal zulässigen Umfang nach geltendem Recht.  
 • This limitation of liability applies to the fullest extent permitted by applicable law.  
 • In einigen Ländern ist der Ausschluss bestimmter Garantien oder Haftungen gesetzlich nicht zulässig; in diesem Fall gilt die Haftung nur im gesetzlich vorgeschriebenen Mindestmaß.  
 
-7. Änderungen / Changes
+8. Änderungen / Changes
 • Wir können die App und diese Bedingungen jederzeit ändern.  
 • We may change the app and these terms at any time.  
 
-8. Anwendbares Recht / Governing Law
+9. Anwendbares Recht / Governing Law
 • Es gilt deutsches Recht, soweit zwingendes Verbraucherrecht nicht entgegensteht.  
 • German law applies, unless mandatory consumer protection laws in your country provide otherwise.
 Nutzung der APP inkl. Google Gemini API in folgenden Ländern erlaubt:
