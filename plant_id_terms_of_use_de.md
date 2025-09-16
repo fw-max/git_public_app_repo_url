@@ -1,5 +1,4 @@
 Nutzungsbedingungen / Terms of Use
-Nutzungsbedingungen / Terms of Use
 
 **Zuletzt aktualisiert / Last updated: September 2025**
 Diese Nutzungsbedingungen regeln die Verwendung der App Plant'y.
