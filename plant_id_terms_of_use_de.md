@@ -1,8 +1,8 @@
 Nutzungsbedingungen / Terms of Use (EULA)
 
 Zuletzt aktualisiert / Last updated: September 2025
-Diese Endnutzer-Lizenzvereinbarung (EULA) regelt die Nutzung der App Plant’y.
-This End User License Agreement (EULA) governs the use of the app Plant’y.
+Diese Endnutzer-Lizenzvereinbarung (EULA) regelt die Nutzung der App Plant_y.
+This End User License Agreement (EULA) governs the use of the app Plant_y.
 
 1. Anerkennung / Acknowledgement
 Diese Vereinbarung wird ausschließlich zwischen dem Nutzer und uns (dem Entwickler) geschlossen, nicht mit Apple.
