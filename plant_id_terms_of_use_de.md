@@ -57,7 +57,7 @@ Verantwortlich für die App ist:
 Responsible for the app is:
 Frank Wallisser
 📧 E-Mail: fw170622@gmail.com
-📍 [Adresse ergänzen]
+
 An diese Kontaktinformationen können Nutzer Fragen, Beschwerden oder Ansprüche richten.
 Users may direct any questions, complaints, or claims regarding the app to this contact information.
 
