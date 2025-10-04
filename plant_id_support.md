@@ -1,5 +1,5 @@
-Supportseite für die App Plant'y
-Support Page for the App Plant'y
+Supportseite für die App Plant_y
+Support Page for the App Plant_y
 
 
 Kontaktinformationen
