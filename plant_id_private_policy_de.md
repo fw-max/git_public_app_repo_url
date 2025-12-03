@@ -3,7 +3,7 @@ Zuletzt aktualisiert / Last updated: September 2025
 Wir nehmen den Schutz Ihrer Daten sehr ernst.
 We take the protection of your data very seriously.
 
-1. Verantwortlicher / Controller
+1. Verantwortlicher / Responsible
 Verantwortlich für die Datenverarbeitung ist:
 Responsible for data processing is:
 Frank Wallisser / email: fw170622@gmail.com
